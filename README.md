@@ -46,6 +46,10 @@ This Power BI project presents an interactive HR Analytics Dashboard that provid
 - Employees with Bachelor’s degrees show the highest attrition.
 - Most employees rate their job satisfaction as 3 or 4.
 
+## Screenshot 
+
+![ss_1](https://github.com/Vaishnavi26-Kasture/HR_Analytics-Dashboard/blob/main/ss_1.png?raw=true)
+
 
 
 
