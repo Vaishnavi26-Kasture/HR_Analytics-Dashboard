@@ -51,6 +51,9 @@ This Power BI project presents an interactive HR Analytics Dashboard that provid
 ![ss_1](https://github.com/Vaishnavi26-Kasture/HR_Analytics-Dashboard/blob/main/ss_1.png?raw=true)
 
 
+![ss_2](https://github.com/Vaishnavi26-Kasture/HR_Analytics-Dashboard/blob/main/ss_2.png?raw=true)
+
+
 
 
 
